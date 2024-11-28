@@ -1,0 +1,25 @@
+// This is a comment
+(foo bar) // Inline comment
+
+// Here are the available atoms:
+//  Strings: "text"
+//  numbers: 42, 3.14
+//  booleans: true, false
+// symbols: foo, bar
+
+// Lists
+(foo bar "baz")
+
+// Key-value pairs
+(color "blue")
+
+// Nested lists
+(foo (key1 value1) baz)
+
+// Variable definitions
+(define foo "bar")
+
+// Conditionals
+(if (equal foo "bar")
+    (log true)
+    (log false))
