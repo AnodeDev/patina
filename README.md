@@ -2,7 +2,7 @@
 
 ## About
 
-This is my own configuration language that is mainly geared towards configuring my other projects, [oxide][(ttps://github.com/AnodeDev/oxide) and [catalyst](https://github.com/AnodeDev/catalyst).
+This is my own configuration language that is mainly geared towards configuring my other projects, [oxide](https://github.com/AnodeDev/oxide) and [catalyst](https://github.com/AnodeDev/catalyst).
 
 ## Why?
 
